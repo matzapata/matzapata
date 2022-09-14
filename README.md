@@ -22,7 +22,7 @@ export const aboutMatiasZapata = {
         databases: [ "PostgreSQL", "firebase" ],
         devtools: [ "git", "vercel", "netlify", "railways", "scrum", "linux" ]
     },
-    interests: [ "climate change", "startups & buisness", "health", "science", "reading" ],
+    interests: [ "climate change", "startups & business", "health", "science", "reading" ],
     currentlyWorkingOn: "usedevjet.com"
 }
 ```
