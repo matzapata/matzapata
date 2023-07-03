@@ -10,6 +10,7 @@ export const aboutMatiasZapata = {
     technologies: {
         frontend: [
             "React",
+            "React Native",
             "Redux with redux toolkit",
             "Nextjs",
             "ChakraUI",
@@ -22,8 +23,8 @@ export const aboutMatiasZapata = {
         databases: [ "PostgreSQL", "firebase" ],
         devtools: [ "git", "vercel", "netlify", "railways", "scrum", "linux" ]
     },
-    interests: [ "climate change", "startups & business", "health", "science", "reading" ],
-    currentlyWorkingOn: "usedevjet.com"
+    interests: [ "climate change", "startups & business", "health", "science", "reading", "crypto", "traveling", "photography" ],
+    currentlyWorkingOn: "SphereOne"
 }
 ```
 
