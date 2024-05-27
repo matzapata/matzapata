@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Matias Zapata
 
-I am a full stack developer and electronic engineering student passionate about technology and its application in solving social problems in an economically viable way.
+I am a full-stack developer and electronic engineering student passionate about technology and its application in solving social problems in an economically viable way.
 
 ### 🔭 A little bit more about me 
 
@@ -31,8 +31,8 @@ export const aboutMatiasZapata = {
 ### 📫 How to reach me:
 
 - Email: matuzapata@gmail.com
-- Whatsapp: +54 11 3860-8532
-- Portfolio: https://matiaszapata.netlify.app/ 
+- Telegram: @matzapata
+- Portfolio: https://portfolio.explainit.com/ 
 - Linkedin: https://www.linkedin.com/in/matias-zapata-b57406143
 
 
