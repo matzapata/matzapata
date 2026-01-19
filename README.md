@@ -7,7 +7,6 @@ I am a senior blockchain developer with an electronic engineering background pas
 
 - Email: matuzapata@gmail.com
 - Telegram: @matzapata
-- Portfolio: https://portfolio.mzlabs.com/ 
 - Linkedin: https://www.linkedin.com/in/matias-zapata-b57406143
 
 
