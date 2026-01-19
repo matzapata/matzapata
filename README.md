@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Matias Zapata
 
-I am a full-stack developer and electronic engineering student passionate about technology and its application in solving social problems in an economically viable way.
+I am a senior blockchain developer with an electronic engineering background passionate about technology and its application in solving social problems in an economically viable way.
 
 
 ### 📫 How to reach me:
