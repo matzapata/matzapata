@@ -6,7 +6,7 @@ Senior software engineer with 5+ years of experience building production-grade b
 
 - Email: [matuzapata@gmail.com](mailto:matuzapata@gmail.com)
 - Telegram: [@matzapata](https://t.me/matzapata)
-- Linkedin: [in/matzapata/](https://www.linkedin.com/in/matzapata/)
+- Linkedin: [in/matzapata](https://www.linkedin.com/in/matzapata/)
 
 
 
